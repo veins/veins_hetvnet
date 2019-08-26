@@ -35,7 +35,9 @@ Build all projects in both debug and release mode.
 
 ## Running ##
 
-Try out `veins_hetvnet` by running
+Try out `veins_hetvnet` by running the example in `examples/veins_hetvnet/omnetpp.ini`.
+
+If you built the project on the command line (by running `./configure` followed by `make`) you can also run it as follows:
 
 ```
 cd examples/veins_hetvnet
